@@ -1,0 +1,33 @@
+/* Background */
+.bg-grey {
+    background-color: #D9D9D9;
+}
+
+/* Text colour */
+.t-black {
+    color: black;
+}
+
+/* Padding */
+.p-20 {
+    padding: 20px;
+}
+
+.p-40 {
+    padding: 40px;
+}
+
+
+body {
+    margin: 0px;
+}
+
+
+/* Blocks */
+.split-2 {
+    display: inline-block;
+}
+
+.col {
+    width: 50%;
+}
